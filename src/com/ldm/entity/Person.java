@@ -6,4 +6,5 @@ package com.ldm.entity;
  */
 public class Person {
     private String id;
+    private String name;
 }
